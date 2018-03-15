@@ -3,4 +3,3 @@ matplotlib
 pyomo
 pyomo.extras
 glpk
-ipopt_bin
